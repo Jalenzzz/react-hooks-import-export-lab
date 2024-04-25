@@ -1,3 +1,7 @@
+import NavBar from "./NavBar";
+import Home from "./Home";
+import About from "./About";
+
 import React from "react";
 
 function App() {
